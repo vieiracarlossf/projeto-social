@@ -29,3 +29,14 @@ section#tel{
     background-color: white;
     background:url(../imagens/frame-iphone.png) no-repeat;  
     }
+iframe#tela{
+  position: relative;
+  top: 81px;
+  left: 23px;
+  width: 265px;
+  height: 469px;
+  back
+  
+}
+    
+
